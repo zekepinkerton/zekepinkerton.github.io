@@ -1,2 +1,6 @@
 # zekepinkerton.github.io
-Example Portfolio 
+
+## Example page of making my first github page
+
+### Hope you enjoy!! 
+#### more to come :)
